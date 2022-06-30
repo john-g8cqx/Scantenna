@@ -1,0 +1,8 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,J2,SMAedgemount,1,Antenna,
+2,J1,SMAedgemount,1,Receiver,
+3,J3,WE_629105136821,1,629105,
+4,F1,Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,Littlefuse 140mA,
+5,C1,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,10nF,
+6,L1,L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,10uH,
+,box,"RS PRO Black ABS Enclosure, IP53, IK07, 66 x 49 x 28mm",,,
